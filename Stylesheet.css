@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/071/703/772/large/mocca-sohee-koo-2.jpg?1705756709), url(https://cdnb.artstation.com/p/assets/images/images/071/699/309/large/wenxu-xu-1.jpg?1705745383);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    background-size: 300px 280px, 1250px 900px;
+    
+
+    /*background-attachment: fixed;*/
+    /*height: 1500px*/
+    overflow: scroll;
+}
+
+p {
+    color:rgb(23, 26, 29);
+    background-color: blanchedalmond;
+    border: 2px solid red;
+    border-radius: 5px;
+    
+}
+
+#division1 {
+    width: 200px;
+    height: 70px;
+    border: 2px solid blue;
+    outline: 5px solid green;
+    overflow: scroll;
+}
+
+.intro{
+    width: 200px;
+    height: 70px;
+    background-color: aliceblue;
+    overflow: auto;
+}
