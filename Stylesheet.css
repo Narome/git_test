@@ -1,12 +1,8 @@
 body {
     background-image: url(https://cdna.artstation.com/p/assets/images/images/071/703/772/large/mocca-sohee-koo-2.jpg?1705756709);
-    /*background-position:*/
     background-repeat: no-repeat;
     background-size: cover;
-    
-
-    /*background-attachment: fixed;*/
-    /*height: 1500px*/
+    height: 1500px;
     overflow: auto;
 }
 
